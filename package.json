@@ -7,12 +7,12 @@
   "author": "Simon He",
   "license": "MIT",
   "funding": "https://github.com/sponsors/Simon-He95",
-  "homepage": "https://github.com/common-intellisense/quasar2#readme",
+  "homepage": "https://github.com/common-intellisense/quasar#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/common-intellisense/quasar2.git"
+    "url": "git+https://github.com/common-intellisense/quasar.git"
   },
-  "bugs": "https://github.com/common-intellisense/quasar2/issues",
+  "bugs": "https://github.com/common-intellisense/quasar/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
