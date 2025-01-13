@@ -226,7 +226,7 @@
       "description_zh": "Quasar Color Palette （类星体调色板） 中组件的颜色名称"
     },
     "color": {
-      "type": "String",
+      "type": "primary/secondary/accent/dark/positive/negative/info/warning",
       "description": "Color name for component from the Quasar Color Palette",
       "value": "",
       "default": "primary",

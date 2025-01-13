@@ -142,7 +142,7 @@
       "required": false
     },
     "color": {
-      "type": "String",
+      "type": "primary/secondary/accent/dark/positive/negative/info/warning",
       "description": "Color name for component from the Quasar Color Palette",
       "value": "",
       "default": "primary",
@@ -201,7 +201,7 @@
       "default": "",
       "required": false
     },
-    "offset": {
+    ":offset": {
       "value": "",
       "type": "Array",
       "description": "An array of two numbers to offset the menu horizontally and vertically in pixels",

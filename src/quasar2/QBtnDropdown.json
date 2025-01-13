@@ -181,7 +181,7 @@
       "default": "top end",
       "required": false
     },
-    "menu-offset": {
+    ":menu-offset": {
       "value": "",
       "type": "Array",
       "description": "An array of two numbers to offset the menu horizontally and vertically in pixels",
@@ -343,14 +343,14 @@
     },
     "padding": {
       "value": "",
-      "type": "String",
+      "type": "none/xs/sm/md/lg/xl",
       "description": "Apply custom padding (vertical [horizontal]); Size in CSS units, including unit name or standard size name (none|xs|sm|md|lg|xl); Also removes the min width and height when set",
       "description_zh": "应用自定义内边距 （垂直 [水平]）;以 CSS 单位表示的大小，包括单元名称或标准大小名称 （none|xs|sm|md|lg|xl）;设置时还会删除最小宽度和高度",
       "default": "",
       "required": false
     },
     "color": {
-      "type": "String",
+      "type": "primary/secondary/accent/dark/positive/negative/info/warning",
       "description": "Color name for component from the Quasar Color Palette",
       "value": "",
       "default": "primary",
@@ -361,7 +361,7 @@
     },
     "text-color": {
       "value": "",
-      "type": "String",
+      "type": "primary/secondary/accent/dark/positive/negative/info/warning",
       "description": "",
       "description_zh": "",
       "default": "",

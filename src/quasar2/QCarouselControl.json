@@ -11,7 +11,7 @@
       "default": "bottom-right",
       "required": false
     },
-    "offset": {
+    ":offset": {
       "value": "",
       "type": "Array",
       "description": "An array of two numbers to offset the component horizontally and vertically (in pixels)",

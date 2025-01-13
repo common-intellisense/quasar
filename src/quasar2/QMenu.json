@@ -130,7 +130,7 @@
       "default": "",
       "required": false
     },
-    "offset": {
+    ":offset": {
       "value": "",
       "type": "Array",
       "description": "An array of two numbers to offset the menu horizontally and vertically in pixels",

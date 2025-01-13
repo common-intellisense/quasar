@@ -54,7 +54,7 @@
       "default": "auto",
       "required": false
     },
-    "palette": {
+    ":palette": {
       "value": "",
       "type": "Array",
       "description": "Use a custom palette of colors for the palette tab",

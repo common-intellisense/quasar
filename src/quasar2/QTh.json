@@ -11,7 +11,7 @@
     }
   ],
   "props": {
-    "props": {
+    ":props": {
       "value": "",
       "type": "Object",
       "description": "QTable's header column scoped slot property",

@@ -64,7 +64,7 @@
       "default": "",
       "required": false
     },
-    "hour-options": {
+    ":hour-options": {
       "value": "",
       "type": "Array",
       "description": "Optionally configure what hours is the user allowed to set; Overrides 'options' prop if that is also set",
@@ -72,7 +72,7 @@
       "default": "",
       "required": false
     },
-    "minute-options": {
+    ":minute-options": {
       "value": "",
       "type": "Array",
       "description": "Optionally configure what minutes is the user allowed to set; Overrides 'options' prop if that is also set",
@@ -80,7 +80,7 @@
       "default": "",
       "required": false
     },
-    "second-options": {
+    ":second-options": {
       "value": "",
       "type": "Array",
       "description": "Optionally configure what seconds is the user allowed to set; Overrides 'options' prop if that is also set",
@@ -112,7 +112,7 @@
       "default": "false",
       "required": false
     },
-    "locale": {
+    ":locale": {
       "value": "",
       "type": "Object",
       "description": "Locale formatting options",
@@ -145,7 +145,7 @@
     },
     "text-color": {
       "value": "",
-      "type": "String",
+      "type": "primary/secondary/accent/dark/positive/negative/info/warning",
       "description": "",
       "description_zh": "",
       "default": "",

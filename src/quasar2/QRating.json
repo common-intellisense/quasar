@@ -147,7 +147,7 @@
     },
     "size": {
       "value": "",
-      "type": "String",
+      "type": "xs/sm/md/lg/xl",
       "description": "Size in CSS units, including unit name or standard size name (xs|sm|md|lg|xl)",
       "description_zh": "以 CSS 单位为单位的大小，包括单位名称或标准大小名称 （xs|sm|md|lg|xl）",
       "default": "",

@@ -182,7 +182,7 @@
     },
     "text-color": {
       "value": "",
-      "type": "String",
+      "type": "primary/secondary/accent/dark/positive/negative/info/warning",
       "description": "",
       "description_zh": "",
       "default": "",
@@ -241,7 +241,7 @@
       "default": "none",
       "required": false
     },
-    "ticked": {
+    ":ticked": {
       "value": "",
       "type": "Array",
       "description": "Keys of nodes that are ticked",
@@ -249,7 +249,7 @@
       "default": "",
       "required": false
     },
-    "expanded": {
+    ":expanded": {
       "value": "",
       "type": "Array",
       "description": "Keys of nodes that are expanded",

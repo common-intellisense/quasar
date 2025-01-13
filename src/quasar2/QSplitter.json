@@ -56,7 +56,7 @@
       "default": "false",
       "required": false
     },
-    "limits": {
+    ":limits": {
       "value": "",
       "type": "Array",
       "description": "An array of two values representing the minimum and maximum split size of the two panels; When 'px' unit is set then you can use Infinity as the second value to make it unbound on the other side; Default value: for '%' unit it is [10, 90], while for 'px' unit it is [50, Infinity]",

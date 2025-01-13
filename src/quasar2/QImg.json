@@ -181,7 +181,7 @@
       "default": "",
       "required": false
     },
-    "img-style": {
+    ":img-style": {
       "value": "",
       "type": "Object",
       "description": "Apply CSS to the native img element",

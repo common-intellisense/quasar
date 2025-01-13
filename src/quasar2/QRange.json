@@ -82,7 +82,7 @@
       "description_zh": "Quasar Color Palette （类星体调色板） 中组件的颜色名称"
     },
     "left-label-text-color": {
-      "type": "String",
+      "type": "primary/secondary/accent/dark/positive/negative/info/warning",
       "description": "Color name for component from the Quasar Color Palette",
       "value": "",
       "default": "primary",
@@ -104,7 +104,7 @@
       "description_zh": "Quasar Color Palette （类星体调色板） 中组件的颜色名称"
     },
     "right-label-text-color": {
-      "type": "String",
+      "type": "primary/secondary/accent/dark/positive/negative/info/warning",
       "description": "Color name for component from the Quasar Color Palette",
       "value": "",
       "default": "primary",
@@ -219,7 +219,7 @@
       "required": false
     },
     "color": {
-      "type": "String",
+      "type": "primary/secondary/accent/dark/positive/negative/info/warning",
       "description": "Color name for component from the Quasar Color Palette",
       "value": "",
       "default": "primary",
@@ -309,7 +309,7 @@
       "description_zh": "Quasar Color Palette （类星体调色板） 中组件的颜色名称"
     },
     "label-text-color": {
-      "type": "String",
+      "type": "primary/secondary/accent/dark/positive/negative/info/warning",
       "description": "Color name for component from the Quasar Color Palette",
       "value": "",
       "default": "primary",

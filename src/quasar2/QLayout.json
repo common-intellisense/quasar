@@ -27,7 +27,7 @@
   "props": {
     "view": {
       "value": "",
-      "type": "Strng",
+      "type": "String",
       "description": "Defines how your layout components (header/footer/drawer) should be placed on screen; See docs examples",
       "description_zh": "定义布局组件（页眉/页脚/抽屉）应如何在屏幕上放置;查看文档示例",
       "default": "hhh lpr fff",

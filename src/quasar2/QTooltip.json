@@ -124,7 +124,7 @@
       "default": "top middle",
       "required": false
     },
-    "offset": {
+    ":offset": {
       "value": "",
       "type": "Array",
       "description": "An array of two numbers to offset the Tooltip horizontally and vertically in pixels",

@@ -439,7 +439,7 @@
       "default": "",
       "required": false
     },
-    "menu-offset": {
+    ":menu-offset": {
       "value": "",
       "type": "Array",
       "description": "An array of two numbers to offset the options list horizontally and vertically in pixels (only in menu mode)",

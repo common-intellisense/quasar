@@ -28,7 +28,7 @@
   ],
   "props": {
     "color": {
-      "type": "Strng",
+      "type": "primary/secondary/accent/dark/positive/negative/info/warning",
       "description": "Color name for component from the Quasar Color Palette",
       "value": "",
       "default": "primary",

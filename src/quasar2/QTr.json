@@ -3,7 +3,7 @@
   "methods": [],
   "events": [],
   "props": {
-    "props": {
+    ":props": {
       "value": "",
       "type": "Object",
       "description": "QTable's row scoped slot property",

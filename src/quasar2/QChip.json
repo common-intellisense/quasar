@@ -103,7 +103,7 @@
       "required": false
     },
     "color": {
-      "type": "String",
+      "type": "primary/secondary/accent/dark/positive/negative/info/warning",
       "description": "Color name for component from the Quasar Color Palette",
       "value": "",
       "default": "primary",
@@ -114,7 +114,7 @@
     },
     "text-color": {
       "value": "",
-      "type": "String",
+      "type": "primary/secondary/accent/dark/positive/negative/info/warning",
       "description": "",
       "description_zh": "",
       "default": "",
@@ -133,10 +133,10 @@
     },
     "selected": {
       "value": "",
-      "type": "Boolean | null",
+      "type": "Boolean",
       "description": "Model for QChip if it's selected or not",
       "description_zh": "QChip 的模型（如果已选中）",
-      "default": "null",
+      "default": "false",
       "required": false
     },
     "square": {

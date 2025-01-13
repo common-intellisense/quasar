@@ -163,7 +163,7 @@
     },
     "text-color": {
       "value": "",
-      "type": "String",
+      "type": "primary/secondary/accent/dark/positive/negative/info/warning",
       "description": "",
       "description_zh": "",
       "default": "",

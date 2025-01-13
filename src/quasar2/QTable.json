@@ -373,7 +373,7 @@
       "default": "",
       "required": true
     },
-    "visible-columns": {
+    ":visible-columns": {
       "value": "",
       "type": "Array",
       "description": "Array of Strings defining column names ('name' property of each column from 'columns' prop definitions); Columns marked as 'required' are not affected by this property",
@@ -641,7 +641,7 @@
       "default": "",
       "required": false
     },
-    "pagination": {
+    ":pagination": {
       "value": "",
       "type": "Object",
       "description": "Pagination object; You can also use the 'v-model:pagination' for synching; When not synching it simply initializes the pagination on first render",
@@ -649,7 +649,7 @@
       "default": "",
       "required": false
     },
-    "rows-per-page-options": {
+    ":rows-per-page-options": {
       "value": "",
       "type": "Array",
       "description": "Options for user to pick (Numbers); Number 0 means 'Show all rows in one page'",
@@ -665,7 +665,7 @@
       "default": "none",
       "required": false
     },
-    "selected": {
+    ":selected": {
       "value": "",
       "type": "Array",
       "description": "Keeps the user selection array",
@@ -673,7 +673,7 @@
       "default": "[]",
       "required": false
     },
-    "expanded": {
+    ":expanded": {
       "value": "",
       "type": "Array",
       "description": "Keeps the array with expanded rows keys",

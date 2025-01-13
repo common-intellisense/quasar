@@ -169,7 +169,7 @@
     },
     "square": {
       "value": "",
-      "type": "Strng",
+      "type": "String",
       "description": "",
       "description_zh": "",
       "default": "",
@@ -238,7 +238,7 @@
       "default": "",
       "required": false
     },
-    "definitions": {
+    ":definitions": {
       "value": "",
       "type": "Object",
       "description": "Definition of commands and their buttons to be included in the 'toolbar' prop",
@@ -246,7 +246,7 @@
       "default": "",
       "required": false
     },
-    "fonts": {
+    ":fonts": {
       "value": "",
       "type": "Object",
       "description": "Object with definitions of fonts",
@@ -254,7 +254,7 @@
       "default": "",
       "required": false
     },
-    "toolbar": {
+    ":toolbar": {
       "value": "",
       "type": "Array",
       "description": "An array of arrays of Objects/Strings that you use to define the construction of the elements and commands available in the toolbar",
@@ -274,7 +274,7 @@
     },
     "toolbar-text-color": {
       "value": "",
-      "type": "String",
+      "type": "primary/secondary/accent/dark/positive/negative/info/warning",
       "description": "Text color (from the Quasar Palette) of toolbar commands",
       "description_zh": "工具栏命令的文本颜色（来自 Quasar 调色板）",
       "default": "",
@@ -331,7 +331,7 @@
       "default": "div",
       "required": false
     },
-    "content-style": {
+    ":content-style": {
       "value": "",
       "type": "Object",
       "description": "Object with CSS properties and values for styling the container of QEditor",

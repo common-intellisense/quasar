@@ -236,7 +236,7 @@
       "default": "false",
       "required": false
     },
-    "locale": {
+    ":locale": {
       "value": "",
       "type": "Object",
       "description": "Locale formatting options",
@@ -253,7 +253,7 @@
       "required": false
     },
     "color": {
-      "type": "String",
+      "type": "primary/secondary/accent/dark/positive/negative/info/warning",
       "description": "Color name for component from the Quasar Color Palette",
       "value": "",
       "default": "primary",
@@ -264,7 +264,7 @@
     },
     "text-color": {
       "value": "",
-      "type": "String",
+      "type": "primary/secondary/accent/dark/positive/negative/info/warning",
       "description": "",
       "description_zh": "",
       "default": "",

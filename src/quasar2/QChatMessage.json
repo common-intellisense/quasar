@@ -31,7 +31,7 @@
     },
     "text-color": {
       "value": "",
-      "type": "String",
+      "type": "primary/secondary/accent/dark/positive/negative/info/warning",
       "description": "Color name (from the Quasar Color Palette) for chat bubble text",
       "description_zh": "聊天气泡文本的颜色名称（来自 Quasar 调色板）",
       "default": "",
